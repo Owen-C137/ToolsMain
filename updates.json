@@ -1,5 +1,5 @@
 {
     "version": "1.1.0",
     "download_url": "https://github.com/YourReleaseRepo/YourProject/releases/download/v1.1.0/YourApp.exe",
-    "updater_download_url": "Bug fixes and performance improvements."
+    "updater_download_url": "https://github.com/YourReleaseRepo/YourProject/releases/download/v1.1.0/YourApp.exe"
   }
