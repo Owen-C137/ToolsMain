@@ -1,5 +1,5 @@
 {
     "version": "1.2.0",
-    "download_url": "https://github.com/YourReleaseRepo/YourProject/releases/download/v1.1.0/YourApp.exe",
+    "download_url": "https://github.com/Owen-C137/GDT-Packer/releases/download/gdtpacker/GDT.Packer.exe",
     "updater_download_url": "https://github.com/Owen-C137/ToolsMain/releases/download/updater/updater.exe"
   }
